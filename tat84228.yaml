@@ -1,0 +1,10 @@
+Network:
+  max_az: 1
+Statics:
+  ec2_key: tat84228
+  enable_dev_repo: false
+  is_devenv: "true"
+  log_level: DEBUG
+  username: tat84228
+Utility:
+  skip: false
