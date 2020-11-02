@@ -8,4 +8,6 @@ Statics:
   username: tat84228
 Utility:
   skip: false
-bsbsbs
+
+resource: 
+  ec2_key: 2
